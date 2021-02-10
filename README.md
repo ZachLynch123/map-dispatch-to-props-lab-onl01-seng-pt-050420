@@ -14,7 +14,7 @@ __Redux__ application by using the __Provider__ component and the __connect()__
 function. We will not include a reference to the store in any component except
 for the __Provider__.
 
-## Instructions
+## Instructions 
 
 Redux is already set up through `index.js` and the reducer `manageRestaurants`.
 Write a __mapDispatchToProps()__ function that allows us to pass dispatched
